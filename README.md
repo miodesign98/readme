@@ -36,5 +36,9 @@ readme 작성법
 - [x] 체크리스트2
 
 ### 이미지넣기
+![Image](https://github.com/user-attachments/assets/bda48cf1-1eaf-4ee1-9cfd-eee3dca7c572)
+<img src="https://github.com/user-attachments/assets/bda48cf1-1eaf-4ee1-9cfd-eee3dca7c572" style = "width: 500px"> 
 
-
+### 링크걸기
+[url](https://miodesign98.github.io/Zlgoon_clone/)
+- [나의 깃허브 연결].(https://miodesign98.github.io/Zlgoon_clone/).
